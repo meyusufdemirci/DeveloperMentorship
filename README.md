@@ -18,3 +18,5 @@ There are some tricks to gain some self confidence
 - Put real, professional, friendly, cool profile pictures on social profiles such as Linkedin, Twitter, GitHub, Medium, etc.
 - Make social profiles public
 - Share your knowledge on social profiles
+- Be aware of your skills
+- Do not call yourself Junior everytime
