@@ -1,5 +1,7 @@
 This document includes the skills every developer should have. The skills are separated into two main subjects, soft and technical skills.
 
+# Skills
+
 - [Soft Skills](#soft-skills)
   - [Self Confidence](#self-confidence)
 
