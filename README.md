@@ -15,7 +15,7 @@ They are the skills you need out of the technical area. They are essential as mu
 ### Self Confidence
 It is needed to show/promote yourself. You should balance it, not too much, not too less.  
 
-There are some tricks to gain some self confidence
+There are some tricks to gain some self confidence,
 - Put real, professional, friendly, cool profile pictures on social profiles such as Linkedin, Twitter, GitHub, Medium, etc.
 - Make social profiles public
 - Share your knowledge on social profiles
@@ -25,7 +25,7 @@ There are some tricks to gain some self confidence
 ### Email Usage
 When you want to start a conversation that is essential/serious, email comes to help.
 
-Here are some tips/information about how the email works
+Here are some tips/information about how the email works,
 - The receiver can see CC, not BCC
 - Put your manager to CC in case the email contains essential information/decision
 - Ask the recruiter to send you the job contract via email. It shows you are professional and you will get the offer in a serious way.
