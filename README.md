@@ -21,7 +21,7 @@ Software development is a marathon never ends. When you find out how to learn yo
 - Make meaningful Google searches such as `ios swift how to handle button click`, `ios swiftui binding vs state`. Google is the best way to get answers about the issue you are facing with. The great search brings the best solution
 - Always have a side project besides your work at the office. You are free to integrate new features into your project because you are the boss!
 - Internet has a lot of qualified articles, benefit them! Make 15 mins reading time every day just before starting the work
-- Build open-source projects even if they are small ones. Publish them to everyone in the package management systems
+- Build open-source projects even if they are small ones. Publish them to everyone in the package management systems. [Example side project ideas for iOS development](https://github.com/demirciy/ExampleProjectIdeas)
 
 ## Soft Skills
 They are the skills you need out of the technical area. They are essential as much as technical skills.
