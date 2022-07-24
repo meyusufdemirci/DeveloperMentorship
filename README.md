@@ -8,6 +8,7 @@ The skills are separated into two main subjects, soft and technical skills.
   - [Self Development](#self-development)
   - [Architectures](#architectures)
   - [Tests](#tests)
+  - [Localization](#localization)
 - [Soft Skills](#soft-skills)
   - [Self Confidence](#self-confidence)
   - [Email Usage](#email-usage)
@@ -42,6 +43,11 @@ Every software has some weaknesses to be covered by the software team. That's wh
 
 - Unit Test: is for testing the logic part of the software. Assume that we have a function which is called `sum` to sum two integers by given as parameters. The function returns the sum of these two integers. In our test method, we basically passes parameters to the sum function and expect the right result 
 - UI Test: is used mostly in front end technologies such as mobile, web. We basically provide a screenshot of a screen, which is accepted as the perfect responsive design. We create a test method to take screenshots of other devices and compares the screenshots with the perfect one. If the difference is too much, the test fails
+
+### Localization
+Software products might aim to different countries/languages. We somehow must localize the texts in the product.  
+In most cases, developers start with English and assume that its localized file name is **en.string**. In this file, texts are stored by key-value principle. For example, `hello: Hello World!`. To support Spanish, all we need to do is creating another file which is named **es.string**. We use the same key but different value here. `hello: Hola Mundo!`.  
+I assume that you have a manager/helper to choose the exact localization file by the language.
 
 ## Soft Skills
 They are the skills you need out of the technical area. They are essential as much as technical skills.
