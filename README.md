@@ -7,6 +7,7 @@ The skills are separated into two main subjects, soft and technical skills.
 - [Technical Skills](#technical-skills)
   - [Self Development](#self-development)
   - [Architectures](#architectures)
+  - [Tests](#tests)
 - [Soft Skills](#soft-skills)
   - [Self Confidence](#self-confidence)
   - [Email Usage](#email-usage)
@@ -26,6 +27,7 @@ Software development is a marathon never ends. When you find out how to learn yo
 
 ### Architectures
 In software frameworks, mostly the most important subject is the architecture of the software. The most two known architectures are MVC and MVVM.
+
 - MVC: Model View Controller
   - Model: stores data such as UserModel, MovieModel. It mostly represents the data that fetched from backend
   - View: the part the end-user sees. It is also the view part of the controller
@@ -34,6 +36,12 @@ In software frameworks, mostly the most important subject is the architecture of
   - Model: the same as MVC
   - View: the same as MVC. In addition, it includes the controller, not only view
   - View Model: the logic part of the view. Assume that it is a helper of the controller. It stores the logic process in the controller, hence controller will be lighter
+
+### Tests
+Every software has some weaknesses to be covered by the software team. That's why the teams needs tests. There are two the most common/known tests, Unit and UI.
+
+- Unit Test: is for testing the logic part of the software. Assume that we have a function which is called `sum` to sum two integers by given as parameters. The function returns the sum of these two integers. In our test method, we basically passes parameters to the sum function and expect the right result 
+- UI Test: is used mostly in front end technologies such as mobile, web. We basically provide a screenshot of a screen, which is accepted as the perfect responsive design. We create a test method to take screenshots of other devices and compares the screenshots with the perfect one. If the difference is too much, the test fails
 
 ## Soft Skills
 They are the skills you need out of the technical area. They are essential as much as technical skills.
