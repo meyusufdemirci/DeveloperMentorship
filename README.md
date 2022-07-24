@@ -6,6 +6,7 @@ The skills are separated into two main subjects, soft and technical skills.
 
 - [Technical Skills](#technical-skills)
   - [Self Development](#self-development)
+  - [Architectures](#architectures)
 - [Soft Skills](#soft-skills)
   - [Self Confidence](#self-confidence)
   - [Email Usage](#email-usage)
@@ -22,6 +23,17 @@ Software development is a marathon never ends. When you find out how to learn yo
 - Always have a side project besides your work at the office. You are free to integrate new features into your project because you are the boss!
 - Internet has a lot of qualified articles, benefit them! Make 15 mins reading time every day just before starting the work
 - Build open-source projects even if they are small ones. Publish them to everyone in the package management systems. [Example side project ideas for iOS development](https://github.com/demirciy/ExampleProjectIdeas)
+
+### Architectures
+In software frameworks, mostly the most important subject is the architecture of the software. The most two known architectures are MVC and MVVM.
+- MVC: Model View Controller
+  - Model: stores data such as UserModel, MovieModel. It mostly represents the data that fetched from backend
+  - View: the part the end-user sees. It is also the view part of the controller
+  - Controller: the logic part of the view. Logic process, database communication, helper functions is stored
+- MVVM: Model View View-Model
+  - Model: the same as MVC
+  - View: the same as MVC. In addition, it includes the controller, not only view
+  - View Model: the logic part of the view. Assume that it is a helper of the controller. It stores the logic process in the controller, hence controller will be lighter
 
 ## Soft Skills
 They are the skills you need out of the technical area. They are essential as much as technical skills.
