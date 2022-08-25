@@ -107,4 +107,4 @@ The popular ones are [Upwork](https://www.upwork.com) and [Fiverr](https://www.f
 ### When is the best time to start freelancing?
 Since freelancing is based on experience mostly, you should have at least 2 years of experience in the domain
 ### How can I calculate the price of a project?
-You should estimate the development duration(as hour) of the project first. Multipy the duration with your hourly rate. You can also %25 increase the last price to give a buffer for non-expected bugs/works
+You should estimate the development duration(as hour) of the project first. Multiply the duration with your hourly rate. You can also %25 increase the last price to give a buffer for non-expected bugs/works
