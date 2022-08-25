@@ -1,6 +1,4 @@
-This document includes the skills every developer should have.  
-
-The skills are separated into two main subjects, soft and technical skills.
+This document includes the skills every developer should have, popular subjetcs and most asked questions.  
 
 # Skills
 
@@ -14,6 +12,9 @@ The skills are separated into two main subjects, soft and technical skills.
   - [Email Usage](#email-usage)
   - [Resume](#resume)
   - [Time Management](#time-management)
+  
+# Subjects
+- [Freelance](#freelance)
   
 ## Technical Skills
 The skills you should have them to develop yourself in the technical area you are in.
@@ -99,3 +100,11 @@ Some tricks to manage your time smartly,
 - Use reminders to not miss anything important. `send the document to xxx`, `call xxx`, `take xxx`
 - Prioritize the jobs. Difficult ones first because you will have enough patience and motivation at the start
 - Use the kanban board in Trello to manage your projects(especially the freelance ones). [Guide for the kanban board in Trello](https://getnave.com/blog/trello-kanban-boards/)
+
+## Freelance
+### Which freelancer platforms are there?
+The popular ones are [Upwork](https://www.upwork.com) and [Fiverr](https://www.fiverr.com)
+### When is the best time to start freelancing?
+Since freelancing is based on experience mostly, you should have at least 2 years of experience in the domain
+### How can I calculate the price of a project?
+You should estimate the development duration(as hour) of the project first. Multipy the duration with your hourly rate. You can also %25 increase the last price to give a buffer for non-expected bugs/works
