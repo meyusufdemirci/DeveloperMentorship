@@ -69,6 +69,7 @@ When you want to start a conversation that is essential/serious, email comes to 
 Here are some tips/information about how the email works,
 - The receiver can see CC, not BCC
 - Put your manager to CC in case the email contains essential information/decision
+- Use `Reply All` all the time. If there are some people in the CC and you don't use Reply All, they will be gone from the conversation
 - Ask the recruiter to send you the job contract via email. It shows you are professional and you will get the offer in a serious way.
 - Fill the email message like you write an essay
 - Start the email with `Hello`, `Hi XXX`, end it with `Best Regards`, `Have a Good Day`
