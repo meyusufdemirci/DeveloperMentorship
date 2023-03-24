@@ -3,12 +3,14 @@ This document includes the skills every developer should have, popular subjetcs 
 # Skills
 
 - [Technical Skills](#technical-skills)
-  - [Self Development](#self-development)
   - [Architectures](#architectures)
   - [Tests](#tests)
   - [Localization](#localization)
+  - [Git Flow](#git-flow)
+  - [DevOps](#devops)
 - [Soft Skills](#soft-skills)
   - [Self Confidence](#self-confidence)
+  - [Self Development](#self-development)
   - [Email Usage](#email-usage)
   - [Resume](#resume)
   - [Time Management](#time-management)
@@ -18,14 +20,6 @@ This document includes the skills every developer should have, popular subjetcs 
   
 ## Technical Skills
 The skills you should have them to develop yourself in the technical area you are in.
-
-### Self Development
-Software development is a marathon never ends. When you find out how to learn yourself, you will not get tired in the marathon.
-
-- Make meaningful Google searches such as `ios swift how to handle button click`, `ios swiftui binding vs state`. Google is the best way to get answers about the issue you are facing with. The great search brings the best solution
-- Always have a side project besides your work at the office. You are free to integrate new features into your project because you are the boss!
-- Internet has a lot of qualified articles, benefit them! Make 15 mins reading time every day just before starting the work
-- Build open-source projects even if they are small ones. Publish them to everyone in the package management systems. [Example side project ideas for iOS development](https://github.com/demirciy/ExampleProjectIdeas)
 
 ### Architectures
 In software frameworks, mostly the most important subject is the architecture of the software. The most two known architectures are MVC and MVVM.
@@ -62,6 +56,14 @@ There are some tricks to gain some self confidence,
 - Share your knowledge on social profiles
 - Be aware of your skills
 - Do not call yourself Junior everytime
+
+### Self Development
+Software development is a marathon never ends. When you find out how to learn yourself, you will not get tired in the marathon.
+
+- Make meaningful Google searches such as `ios swift how to handle button click`, `ios swiftui binding vs state`. Google is the best way to get answers about the issue you are facing with. The great search brings the best solution
+- Always have a side project besides your work at the office. You are free to integrate new features into your project because you are the boss!
+- Internet has a lot of qualified articles, benefit them! Make 15 mins reading time every day just before starting the work
+- Build open-source projects even if they are small ones. Publish them to everyone in the package management systems. [Example side project ideas for iOS development](https://github.com/demirciy/ExampleProjectIdeas)
 
 ### Email Usage
 When you want to start a conversation that is essential/serious, email comes to help.
