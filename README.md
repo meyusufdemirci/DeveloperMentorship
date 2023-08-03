@@ -76,6 +76,7 @@ Here are some tips/information about how the email works,
 - Fill the email message like you write an essay
 - Start the email with `Hello`, `Hi XXX`, end it with `Best Regards`, `Have a Good Day`
 - Tell the situation as clear as you can
+- If you are sending an email to multiple people and if seeing each other's email addresses would cause a problem, you can add them in `BCC`. This way, you can send an email to multiple people at once and keep their data confidential.
 
 ### Resume
 Your resume is your first impression that must be great to make the further steps easier for you.
